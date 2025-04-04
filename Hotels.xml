@@ -34,7 +34,7 @@
         </Address>
     </Hotel>
     <Hotel Rating="3.5" NearestAirport="PHX">
-        <Name>Holiday Inn Express & Suites Phoenix-Tempe</Name>
+        <Name>Holiday Inn Express and Suites Phoenix-Tempe</Name>
         <Phone>+1 480-784-2233</Phone>
         <Address>
             <Number>670</Number>
@@ -45,7 +45,7 @@
         </Address>
     </Hotel>
     <Hotel Rating="3.5" NearestAirport="PHX">
-        <Name>Holiday Inn Express & Suites Tempe</Name>
+        <Name>Holiday Inn Express and Suites Tempe</Name>
         <Phone>+1 480-831-9800</Phone>
         <Address>
             <Number>1520</Number>
@@ -78,7 +78,7 @@
         </Address>
     </Hotel>
     <Hotel Rating="3.0" NearestAirport="PHX">
-        <Name>Comfort Inn & Suites Tempe near Phoenix Sky Harbor Airport</Name>
+        <Name>Comfort Inn and Suites Tempe near Phoenix Sky Harbor Airport</Name>
         <Phone>+1 480-858-9898</Phone>
         <Address>
             <Number>808</Number>
