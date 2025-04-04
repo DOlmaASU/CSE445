@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-    <Hotel Rating="3.5" NearestAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Aloft Tempe</Name>
         <Phone>+1 480-621-3300</Phone>
         <Address>
@@ -11,7 +11,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearestAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="PHX">
         <Name>Hilton Garden Inn Phoenix Tempe ASU Area</Name>
         <Phone>+1 480-968-2180</Phone>
         <Address>
@@ -22,7 +22,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearestAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="PHX">
         <Name>Hilton Garden Inn Phoenix-Tempe University Research Park</Name>
         <Phone>+1 480-897-5100</Phone>
         <Address>
@@ -33,7 +33,7 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearestAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Holiday Inn Express and Suites Phoenix-Tempe</Name>
         <Phone>+1 480-784-2233</Phone>
         <Address>
@@ -44,7 +44,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearestAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Holiday Inn Express and Suites Tempe</Name>
         <Phone>+1 480-831-9800</Phone>
         <Address>
@@ -55,7 +55,7 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearestAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Home2 Suites by Hilton Phoenix-Tempe University Research Park</Name>
         <Phone>+1 480-897-5200</Phone>
         <Address>
@@ -66,7 +66,7 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearestAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Homewood Suites Phoenix Tempe ASU Area</Name>
         <Phone>+1 480-968-6800</Phone>
         <Address>
@@ -77,7 +77,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.0" NearestAirport="PHX">
+    <Hotel Rating="3.0" NearstAirport="PHX">
         <Name>Comfort Inn and Suites Tempe near Phoenix Sky Harbor Airport</Name>
         <Phone>+1 480-858-9898</Phone>
         <Address>
@@ -88,7 +88,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.0" NearestAirport="PHX">
+    <Hotel Rating="3.0" NearstAirport="PHX">
         <Name>Comfort Suites Phoenix Airport</Name>
         <Phone>+1 480-446-9500</Phone>
         <Address>
@@ -99,7 +99,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearestAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="PHX">
         <Name>DoubleTree by Hilton Phoenix Tempe</Name>
         <Phone>+1 480-967-1441</Phone>
         <Address>
