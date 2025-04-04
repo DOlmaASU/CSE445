@@ -11,7 +11,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearestAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="PHX">
         <Name>Hilton Garden Inn Phoenix Tempe ASU Area</Name>
         <!-- Error (3): Missing Phone element -->
         <Address>
@@ -22,7 +22,7 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearestAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="PHX">
         <Name>Hilton Garden Inn Phoenix-Tempe University Research Park</Name>
         <Phone>+1 480-897-5100</Phone>
         <Address> <!-- Error (4): Address element has no closing tag -->
@@ -32,7 +32,7 @@
             <State>AZ</State>
             <Zip>85283</Zip>
     </Hotel>
-    <Hotel Rating="3.5" NearestAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Holiday Inn Express and Suites Phoenix-Tempe</Name>
         <Name>Duplicate Hotel Name</Name> <!-- Error (5): Two Name elements provided -->
         <Phone>+1 480-784-2233</Phone>
