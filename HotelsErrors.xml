@@ -33,7 +33,7 @@
             <Zip>85283</Zip>
     </Hotel>
     <Hotel Rating="3.5" NearestAirport="PHX">
-        <Name>Holiday Inn Express & Suites Phoenix-Tempe</Name>
+        <Name>Holiday Inn Express and Suites Phoenix-Tempe</Name>
         <Name>Duplicate Hotel Name</Name> <!-- Error (5): Two Name elements provided -->
         <Phone>+1 480-784-2233</Phone>
         <Address>
