@@ -2,9 +2,21 @@
 <Hotels
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/DOlmaASU/CSE445/raw/main/Hotels.xsd">
-    <Hotel Rating="3.5" NearstAirport="PHX">
+    <Hotel Rating="4.2" NearstAirport="Sky Harbor">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.5" NearstAirport="Sky Harbor">
         <Name>Aloft Tempe</Name>
-        <Phone>+1 480-621-3300</Phone>
+        <Phone>480-621-3300</Phone>
         <Address>
             <Number>951</Number>
             <Street>East Playa Del Norte Drive</Street>
@@ -13,9 +25,9 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearstAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="Sky Harbor">
         <Name>Hilton Garden Inn Phoenix Tempe ASU Area</Name>
-        <Phone>+1 480-968-2180</Phone>
+        <Phone>480-968-2180</Phone>
         <Address>
             <Number>86</Number>
             <Street>South Rockford Drive</Street>
@@ -24,9 +36,9 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="4.0" NearstAirport="PHX">
+    <Hotel Rating="4.0" NearstAirport="Sky Harbor">
         <Name>Hilton Garden Inn Phoenix-Tempe University Research Park</Name>
-        <Phone>+1 480-897-5100</Phone>
+        <Phone>480-897-5100</Phone>
         <Address>
             <Number>7290</Number>
             <Street>South Price Road</Street>
@@ -35,9 +47,9 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearstAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="Sky Harbor">
         <Name>Holiday Inn Express and Suites Phoenix-Tempe</Name>
-        <Phone>+1 480-784-2233</Phone>
+        <Phone>480-784-2233</Phone>
         <Address>
             <Number>670</Number>
             <Street>North Scottsdale Road</Street>
@@ -46,9 +58,9 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearstAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="Sky Harbor">
         <Name>Holiday Inn Express and Suites Tempe</Name>
-        <Phone>+1 480-831-9800</Phone>
+        <Phone>480-831-9800</Phone>
         <Address>
             <Number>1520</Number>
             <Street>West Baseline Road</Street>
@@ -57,9 +69,9 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearstAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="Sky Harbor">
         <Name>Home2 Suites by Hilton Phoenix-Tempe University Research Park</Name>
-        <Phone>+1 480-897-5200</Phone>
+        <Phone>480-897-5200</Phone>
         <Address>
             <Number>7200</Number>
             <Street>South Price Road</Street>
@@ -68,9 +80,9 @@
             <Zip>85283</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.5" NearstAirport="PHX">
+    <Hotel Rating="3.5" NearstAirport="Sky Harbor">
         <Name>Homewood Suites Phoenix Tempe ASU Area</Name>
-        <Phone>+1 480-968-6800</Phone>
+        <Phone>480-968-6800</Phone>
         <Address>
             <Number>108</Number>
             <Street>East University Drive</Street>
@@ -79,9 +91,9 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.0" NearstAirport="PHX">
+    <Hotel Rating="3.0" NearstAirport="Sky Harbor">
         <Name>Comfort Inn and Suites Tempe near Phoenix Sky Harbor Airport</Name>
-        <Phone>+1 480-858-9898</Phone>
+        <Phone>480-858-9898</Phone>
         <Address>
             <Number>808</Number>
             <Street>North Scottsdale Road</Street>
@@ -90,26 +102,15 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
-    <Hotel Rating="3.0" NearstAirport="PHX">
+    <Hotel Rating="3.0" NearstAirport="Sky Harbor">
         <Name>Comfort Suites Phoenix Airport</Name>
-        <Phone>+1 480-446-9500</Phone>
+        <Phone>480-446-9500</Phone>
         <Address>
             <Number>1625</Number>
             <Street>South 52nd Street</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-        </Address>
-    </Hotel>
-    <Hotel Rating="4.0" NearstAirport="PHX">
-        <Name>DoubleTree by Hilton Phoenix Tempe</Name>
-        <Phone>+1 480-967-1441</Phone>
-        <Address>
-            <Number>2100</Number>
-            <Street>South Priest Drive</Street>
-            <City>Tempe</City>
-            <State>AZ</State>
-            <Zip>85282</Zip>
         </Address>
     </Hotel>
 </Hotels>
