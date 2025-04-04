@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels>
+<Hotels
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/DOlmaASU/CSE445/raw/main/Hotels.xsd">
     <Hotel Rating="3.5" NearstAirport="PHX">
         <Name>Aloft Tempe</Name>
         <Phone>+1 480-621-3300</Phone>
